@@ -1,4 +1,4 @@
-# `bootstrap-es-next`
+# `bootstrap-esnext-skeleton-update`
 
 This project is bootstrapped by [aurelia-cli](https://github.com/aurelia/cli).
 
