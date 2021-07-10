@@ -1,9 +1,9 @@
+import { RouterConfiguration, Router } from 'aurelia-router';
 import { PLATFORM } from 'aurelia-pal';
 
 const moduleIds = {
   'helloWorld': PLATFORM.moduleName('resources/hello-world/hello-world')
-};
-
+}
 
 export class App {
   configureRouter(config, router) {
